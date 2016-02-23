@@ -1,7 +1,7 @@
 name: Ray Baldino Photographer
 favicon: null
-layout_spectrum: 0.783626772928983
-typography_spectrum: 0.23835553461685777
+layout_spectrum: 0
+typography_spectrum: 0.27893
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.447070759953931
-  lightness: 0.3265133877284825
-  saturation: 0.3974502421915531
-  rhythmicContrast: 0.6159304461907595
+    - '#000000'
+    - '#4a333e'
+    - '#8791a6'
+    - '#745e54'
+    - '#0076d3'
+  brandStrength: 0.375
+  lightness: 0.9375
+  saturation: 1
+  rhythmicContrast: 0.75
 purpose: []
