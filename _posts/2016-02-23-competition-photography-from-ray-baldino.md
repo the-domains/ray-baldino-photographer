@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'PPA Competition Photography '
-datePublished: '2016-02-23T14:47:28.120Z'
-dateModified: '2016-02-23T14:47:05.344Z'
+datePublished: '2016-02-23T14:49:24.202Z'
+dateModified: '2016-02-23T14:47:37.544Z'
 title: Competition Photography from Ray Baldino
 author: []
+sourcePath: _posts/2016-02-23-competition-photography-from-ray-baldino.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-23-competition-photography-from-ray-baldino.md
-published: true
 url: competition-photography-from-ray-baldino/index.html
 _type: Article
 
